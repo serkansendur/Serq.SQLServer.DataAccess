@@ -65,6 +65,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="NameTableCreationScript.sql" />
+    <Content Include="test.xml" />
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
