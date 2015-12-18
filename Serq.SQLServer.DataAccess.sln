@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serq.SQLServer.DataAccess", "Serq.SQLServer.DataAccess\Serq.SQLServer.DataAccess.csproj", "{556F8B5D-BD86-4D78-831E-31F9FA84A228}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serq.SQLServer.DataAccess.Tests", "Serq.SQLServer.DataAccess.Tests\Serq.SQLServer.DataAccess.Tests.csproj", "{3CF35AA4-FB68-4034-A3B5-760C1081CB1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{556F8B5D-BD86-4D78-831E-31F9FA84A228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{556F8B5D-BD86-4D78-831E-31F9FA84A228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{556F8B5D-BD86-4D78-831E-31F9FA84A228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{556F8B5D-BD86-4D78-831E-31F9FA84A228}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CF35AA4-FB68-4034-A3B5-760C1081CB1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF35AA4-FB68-4034-A3B5-760C1081CB1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF35AA4-FB68-4034-A3B5-760C1081CB1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF35AA4-FB68-4034-A3B5-760C1081CB1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.TransientFaultHandling.6.0.1304.0\lib\portable-net45+win+wp8;packages\EnterpriseLibrary.TransientFaultHandling.Data.6.0.1304.1\lib\NET45
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://serkansendur.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Serq.SQLServer.DataAccess\\Serq.SQLServer.DataAccess.csproj
+		SccProjectName1 = Serq.SQLServer.DataAccess
+		SccLocalPath1 = Serq.SQLServer.DataAccess
+		SccProjectUniqueName2 = Serq.SQLServer.DataAccess.Tests\\Serq.SQLServer.DataAccess.Tests.csproj
+		SccProjectName2 = Serq.SQLServer.DataAccess.Tests
+		SccLocalPath2 = Serq.SQLServer.DataAccess.Tests
+	EndGlobalSection
+EndGlobal

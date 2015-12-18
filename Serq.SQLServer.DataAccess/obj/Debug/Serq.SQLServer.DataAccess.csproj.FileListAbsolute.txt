@@ -1,0 +1,9 @@
+D:\Personal Projects\Serq.SQLServer.DataAccess\Serq.SQLServer.DataAccess\bin\Debug\Serq.SQLServer.DataAccess.dll
+D:\Personal Projects\Serq.SQLServer.DataAccess\Serq.SQLServer.DataAccess\bin\Debug\Serq.SQLServer.DataAccess.pdb
+D:\Personal Projects\Serq.SQLServer.DataAccess\Serq.SQLServer.DataAccess\obj\Debug\Serq.SQLServer.DataAccess.dll
+D:\Personal Projects\Serq.SQLServer.DataAccess\Serq.SQLServer.DataAccess\obj\Debug\Serq.SQLServer.DataAccess.pdb
+D:\Personal Git Projects\Serq.SQLServer.DataAccess\Serq.SQLServer.DataAccess\Serq.SQLServer.DataAccess\bin\Debug\Serq.SQLServer.DataAccess.dll
+D:\Personal Git Projects\Serq.SQLServer.DataAccess\Serq.SQLServer.DataAccess\Serq.SQLServer.DataAccess\bin\Debug\Serq.SQLServer.DataAccess.pdb
+D:\Personal Git Projects\Serq.SQLServer.DataAccess\Serq.SQLServer.DataAccess\Serq.SQLServer.DataAccess\obj\Debug\Serq.SQLServer.DataAccess.csprojResolveAssemblyReference.cache
+D:\Personal Git Projects\Serq.SQLServer.DataAccess\Serq.SQLServer.DataAccess\Serq.SQLServer.DataAccess\obj\Debug\Serq.SQLServer.DataAccess.dll
+D:\Personal Git Projects\Serq.SQLServer.DataAccess\Serq.SQLServer.DataAccess\Serq.SQLServer.DataAccess\obj\Debug\Serq.SQLServer.DataAccess.pdb
